@@ -1,0 +1,10 @@
+.bg-custom-1{
+    background-color: #fceae8;
+}
+
+.btn-custom{
+    background-color: #ff4b92;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
